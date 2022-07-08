@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"author": "Steffen Hofseth",
 	"description": "Stuck in tutorial hell",
+	"keywords": [ "freecodecamp", "related", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
