@@ -4,6 +4,7 @@
 	"author": "Steffen Hofseth",
 	"description": "Stuck in tutorial hell",
 	"keywords": ["freecodecamp", "related", "words"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
