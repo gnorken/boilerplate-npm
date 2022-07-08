@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
 	"author": "Steffen Hofseth",
+	"description": "Stuck in tutorial hell",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
